@@ -15,7 +15,7 @@ The goal of this project is to:
 
 ## 📂 Dataset  
 
-The dataset includes:  
+The dataset is stored in the `UK_Eat.csv` file and includes:  
 - **Regions:** England, Northern Ireland, Scotland, and Wales.  
 - **Food Categories:** 17 food items with their respective consumption levels.
 
@@ -63,11 +63,13 @@ The dataset includes:
 2. Install dependencies:
     ```bash  
     pip install -r requirements.txt  
-3. Run the analysis:
+3. Open the Jupyter Notebook:
     ```bash  
-    python pca_analysis.py
-4. View the results:  
-   - PCA plot and heatmaps will be displayed as output visualizations.  
+    jupyter notebook PCA.ipynb  
+4. Execute the notebook to: 
+   - Load and preprocess the UK_Eat.csv dataset.
+   - Apply PCA.
+   - Visualize results with plots
 
 ---
 
