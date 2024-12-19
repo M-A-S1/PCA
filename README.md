@@ -82,14 +82,9 @@ The dataset includes:
 
 ---
 
-## 📜 License  
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
-
----
 
 ## 👤 Author  
 
-**Your Name**  
+**Muhammad Ali**  
 - [GitHub](https://github.com/M-A-S1)  
 - [LinkedIn](https://www.linkedin.com/in/m-a-s94/)
